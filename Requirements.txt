@@ -2,3 +2,5 @@ requests
 beautifulsoup4
 openai
 gtts
+
+#mpg321 for linux to play the files run and apt install mpg321
